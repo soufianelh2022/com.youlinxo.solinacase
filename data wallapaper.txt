@@ -1,138 +1,39 @@
-{
-  "categories": [
+[
     {
-      "name": "КАК НУЖНО ТРЕЙДИТЬСЯ",
-      "preview": "https://i.ytimg.com/vi/k7A6q8wkUCc/maxresdefault.jpg",
-      "wallpapers": [
-        {
-          "id": 0,
-          "category": "КАК НУЖНО ТРЕЙДИТЬСЯ",
-          "path": "https://pic.rutubelist.ru/video/c4/2d/c42d525ac4667e8ef4e13d81fdc0ea62.jpg"
-        },
-        {
-          "id": 1,
-          "category": "КАК НУЖНО ТРЕЙДИТЬСЯ",
-          "path": "https://i.ytimg.com/vi/zJZkgnpMVec/maxresdefault.jpg"
-        },
-        {
-          "id": 2,
-          "category": "КАК НУЖНО ТРЕЙДИТЬСЯ",
-          "path": "https://steamuserimages-a.akamaihd.net/ugc/791981691724957817/6C181A72D969740F9EA9F5A9CF3665E6BD2589D0/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
-        },
-        {
-          "id": 3,
-          "category": "КАК НУЖНО ТРЕЙДИТЬСЯ",
-          "path": "https://steamuserimages-a.akamaihd.net/ugc/781855170876507782/2156006BFEB6F6A216D8F09020EC91D05E369975/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
-        },
-        {
-          "id": 4,
-          "category": "КАК НУЖНО ТРЕЙДИТЬСЯ",
-          "path": "https://sun9-62.userapi.com/impg/DamKarszONgTHFWjsvcCyAJ8T6OPg8aeIKhR0w/0NQkz1H6yfs.jpg?size=1280x640&quality=96&sign=7fb991498935f09b733a60e998263744&c_uniq_tag=hmsiUG2Y5FAZKIZwqorkySf5jK5kX85hY1mZVMiwD2A&type=album"
-        },
-        {
-          "id": 5,
-          "category": "КАК НУЖНО ТРЕЙДИТЬСЯ",
-          "path": "https://i.ytimg.com/vi/uL12R8YwYmk/maxresdefault_live.jpg"
-        },
-        {
-          "id": 6,
-          "category": "КАК НУЖНО ТРЕЙДИТЬСЯ",
-          "path": "https://pic.rutubelist.ru/video/30/93/3093484ba5c0f0a7f582ecc33faf5871.jpg"
-        },
-        {
-          "id": 7,
-          "category": "КАК НУЖНО ТРЕЙДИТЬСЯ",
-          "path": "https://i.ytimg.com/vi/5XL-JPfdM7Y/maxresdefault.jpg"
-        }
-      ]
+        "url": "https://i.ytimg.com/vi/tv1fw9w1XtM/maxresdefault.jpg",
+        "title": "Ship prefix"
     },
-    {
-      "name": "КАК ЛОВИТЬ СКИНЫ ЗА 0.03 В СТАНДОФФ",
-      "preview": "https://i.ytimg.com/vi/ghT-ENlalq4/maxresdefault.jpg",
-      "wallpapers": [
-        {
-          "id": 0,
-          "category": "КАК ЛОВИТЬ СКИНЫ ЗА 0.03 В СТАНДОФФ",
-          "path": "https://i.ytimg.com/vi/wvo5QWmE9Uc/maxresdefault.jpg"
-        },
-        {
-          "id": 1,
-          "category": "КАК ЛОВИТЬ СКИНЫ ЗА 0.03 В СТАНДОФФ",
-          "path": "https://i.ytimg.com/vi/jRePtkyWGUs/maxresdefault.jpg"
-        },
-        {
-          "id": 2,
-          "category": "КАК ЛОВИТЬ СКИНЫ ЗА 0.03 В СТАНДОФФ",
-          "path": "https://pic.rutubelist.ru/video/79/54/79547bbaa1182c13313bedaa277afd61.jpg"
-        },
-        {
-          "id": 3,
-          "category": "КАК ЛОВИТЬ СКИНЫ ЗА 0.03 В СТАНДОФФ",
-          "path": "https://sun9-75.userapi.com/impg/ACAHWkCQ3-OWJ4dRse-L7BOVuLX5Uhaen3RrGA/ygn3V6rKWaA.jpg?size=1280x720&quality=95&sign=c64092499b79b802705486fdfe76898d&c_uniq_tag=7KPnEV_73abDOTpCigByRyWbLRlkRdSN3dkXBwKjzVI&type=album"
-        },
-        {
-          "id": 4,
-          "category": "КАК ЛОВИТЬ СКИНЫ ЗА 0.03 В СТАНДОФФ",
-          "path": "https://i.ytimg.com/vi/WrmBbcCiL2Y/maxresdefault.jpg"
-        },
-        {
-          "id": 5,
-          "category": "КАК ЛОВИТЬ СКИНЫ ЗА 0.03 В СТАНДОФФ",
-          "path": "https://pic.rutubelist.ru/video/4f/8b/4f8bbac98bf44c507968e275b30928ab.jpg"
-        },
-        {
-          "id": 6,
-          "category": "КАК ЛОВИТЬ СКИНЫ ЗА 0.03 В СТАНДОФФ",
-          "path": "https://i.ytimg.com/vi/eicvY5QbPfc/maxresdefault.jpg"
-        },
-        {
-          "id": 7,
-          "category": "КАК ЛОВИТЬ СКИНЫ ЗА 0.03 В СТАНДОФФ",
-          "path": "https://i.ytimg.com/vi/i3t4Q6QBjhU/maxresdefault.jpg"
-        }
-      ]
+ {
+        "url": "https://i.ytimg.com/vi/7SUa1kq8P88/maxresdefault.jpg",
+        "title": "Famous cargo ships"
     },
+ {
+        "url": "https://i.ytimg.com/vi/Ir_vteJ1r5E/maxresdefault.jpg",
+        "title": "ICON OF THE SEAS"
+    },
+ {
+        "url": "https://i.ytimg.com/vi/Cr9LQz5g9pM/maxresdefault.jpg",
+        "title": "PIONEERING SPIRIT"
+    },
+ {
+        "url": "https://i.ytimg.com/vi/YZ7RUvw2dAo/maxresdefault.jpg",
+        "title": "CMA CGM SORBONNE"
+    },
+ {
+        "url": "https://i.ytimg.com/vi/5tcXh-Im7z4/maxresdefault.jpg",
+        "title": "EVER ACME"
+    },
+ {
+        "url": "https://i.ytimg.com/vi/N2g9K1yVD8I/maxresdefault.jpg",
+        "title": "CMACGM JACQUES SAADE"
+    },
+ {
+        "url": "https://i.ytimg.com/vi/4VM1KpImiJk/maxresdefault.jpg",
+        "title": "UTOPIA OF THE SEAS"
+    },
+
     {
-      "name": "ТРЕЙД С НУЛЯ ДО М9 ДРАГОН ГЛАСС ",
-      "preview": "https://i3.wp.com/sotni.ru/wp-content/uploads/2023/08/fon-sendstoun-standoff-1-1.webp?ssl=1",
-      "wallpapers": [
-        {
-          "id": 0,
-          "category": "ТРЕЙД С НУЛЯ ДО М9 ДРАГОН ГЛАСС ",
-          "path": "https://i.ytimg.com/vi/71Gw72Ov6TI/maxresdefault.jpg"
-        },
-        {
-          "id": 1,
-          "category": "ТРЕЙД С НУЛЯ ДО М9 ДРАГОН ГЛАСС ",
-          "path": "https://i.ytimg.com/vi/nCOMoAdMZTg/maxresdefault.jpg"
-        },
-        {
-          "id": 2,
-          "category": "ТРЕЙД С НУЛЯ ДО М9 ДРАГОН ГЛАСС ",
-          "path": "https://i.ytimg.com/vi/ILUFnj03sOo/maxresdefault.jpg"
-        },
-        
-        {
-          "id": 4,
-          "category": "ТРЕЙД С НУЛЯ ДО М9 ДРАГОН ГЛАСС ",
-          "path": "https://i.ytimg.com/vi/A9QnVqw43gw/maxresdefault.jpg"
-        },
-        {
-          "id": 5,
-          "category": "ТРЕЙД С НУЛЯ ДО М9 ДРАГОН ГЛАСС ",
-          "path": "https://img.goodfon.ru/original/1920x1080/2/3b/at-an-impass-standoff-pomeshchenie-liudi.jpg"
-        },
-        {
-          "id": 6,
-          "category": "ТРЕЙД С НУЛЯ ДО М9 ДРАГОН ГЛАСС ",
-          "path": "https://i.ytimg.com/vi/lHAPik7r_eQ/maxresdefault.jpg"
-        },
-        {
-          "id": 7,
-          "category": "ТРЕЙД С НУЛЯ ДО М9 ДРАГОН ГЛАСС ",
-          "path": "https://i.pinimg.com/originals/9b/ae/44/9bae449d9bac4955d340c197eeae0802.webp"
-        }
-      ]
+        "url": "https://i.ytimg.com/vi/FU30IUwdZ6Q/maxresdefault.jpg",
+        "title": "MSC CELESTINOMARESCA"
     }
-  ]
-}
+]
